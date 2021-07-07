@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1625663472 source:c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"funciones.h"
+	"parser.h"
+	"pais.h"
+	"Controller.h"
+
+1625662739 c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\linkedlist.h
+	"pais.h"
+
+1623993311 c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\funciones.h
+
+1625643549 c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\parser.h
+
+1625664109 c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\pais.h
+
+1625662056 c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\controller.h
+	"LinkedList.h"
+
+1625647557 source:c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1625662739 source:c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625664206 source:c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"pais.h"
+	"Controller.h"
+	"LinkedList.h"
+
+1625661565 source:c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+	<time.h>
+
+1625660304 source:c:\users\felipe\onedrive\escritorio\codeblocks\2parciallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+
